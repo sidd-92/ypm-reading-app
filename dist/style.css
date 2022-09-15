@@ -1,6 +1,3 @@
-body {
-  overflow: hidden;
-}
 div.sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
